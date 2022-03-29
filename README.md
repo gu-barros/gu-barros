@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Gustavo Barros @gu-barros
-- 👀 I’m interested in Fron-End and UI Desing
+- 👀 I’m interested in Front-End and UI Design
 - 🌱 I’m currently learning JavaSript and ReactJS.
 - 📫 My linktree: linktr.ee/gbarro_s
